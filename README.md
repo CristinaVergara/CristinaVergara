@@ -48,7 +48,7 @@ For more than a decade I've worked with food, hospitality, beauty and culture br
   <img src="assets/card-luva-baby.png" alt="Luva baby — brand and landing page" width="49%">
 </p>
 <p>
-  <img src="assets/card-collector-app.png" alt="Coin collector app — UX/UI redesign in progress for a masterclass, new name coming soon" width="49%">
+  <img src="assets/card-collector-app.png" alt="Coin collector app — case study: UX/UI redesign of an app I designed for a client" width="49%">
   <img src="assets/card-mamma-mia.png" alt="Pizzería Mamma Mía — React web app" width="49%">
 </p>
 <p>
